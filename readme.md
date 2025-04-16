@@ -1,11 +1,11 @@
 # Code for the data test on Rheumatology data
 
 ## Description
-The git contains the answer for the questions contained in the Assignment PDF. 
+The repository contains the answer for the questions contained in the Assignment PDF. 
 
 ## Installation
 
-1. This repository requires Python specific dependency:
+This repository requires Python specific dependency:
 
 ```sh
 pip install -r requirements.txt

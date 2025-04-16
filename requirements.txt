@@ -1,0 +1,6 @@
+pandas
+lifelines
+numpy
+scikit-survival
+scipy
+ipykernel

@@ -1,7 +1,7 @@
 # Code for the data test on Rheumatology data
 
 ## Description
-The repository contains the answer for the questions contained in the Assignment PDF. 
+The repository contains the answer for the questions contained in the Assignment PDF. Note that each jupyter notebook contain a small conclusion at the end.
 
 ## Installation
 
